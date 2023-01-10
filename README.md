@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-facundo-de-los-rios.vercel.app/](https://portfolio-facundo-de-los-rios.vercel.app/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://portfolio-facundo-de-los-rios.vercel.app/)
 
 - 📫 How to reach me **facujofre96@gmail.com**
 
