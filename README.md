@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **facujofre96@gmail.com**
 
-- 📄 Know about my experiences [in My CV](https://drive.google.com/file/d/1MoWG8E7uxYSAM4CAx3vem_7tfqSkw-lo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
