@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://portfolio-facundo-de-los-rios.vercel.app/)
 
-- 📫 How to reach me **facujofre96@gmail.com**
+- 📫 How to reach me **facudesarrollos@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
