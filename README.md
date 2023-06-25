@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
-
-- 🔭 I’m currently **looking for a job**
+<h3 align="center">I am a lover of technology, design and accessibility.</h3>
 
 - 🌱 I’m currently learning **ReactJs and Backend**
 
