@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">I am a lover of technology, design and accessibility.</h3>
 
-- 🌱 I’m currently learning **ReactJs and Backend**
+👋 Hey there, code wranglers! I'm just your average human (with a slight touch of superpower) diving headfirst into the wild world of front-end development. Think of me as the Wade Wilson of coding: armed with a keyboard, a questionable sense of humor, and a burning desire to make the web a little more fabulous—one pixel at a time.
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+When I’m not battling the forces of buggy code and rogue syntax errors, you’ll find me binge-watching tutorials like they’re the latest superhero flicks. I’m here to learn, grow, and maybe even create something so awesome that it breaks the internet (in a good way, I promise).
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://portfolio-facundo-de-los-rios.vercel.app/)
+So, if you see me talking to my code like it’s a long-lost friend or pulling off some crazy CSS tricks, just know: I’m on a mission to turn my coding dreams into reality—while keeping the snark levels at maximum. Let’s make the web a little weirder together!
+
+🕶️ Ready, set, code! 🕶️
 
 - 📫 How to reach me **facudesarrollos@gmail.com**
 
