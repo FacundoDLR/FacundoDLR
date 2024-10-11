@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<h3 align="center">I am a lover of technology, design and accessibility.</h3>
+<h3 align="center">Code Crusader: Fighting Bugs and Making the Web a Funnier Place! 🕶️⚔️.</h3>
 
 👋 Hey there, code wranglers! I'm just your average human (with a slight touch of superpower) diving headfirst into the wild world of front-end development. Think of me as the Wade Wilson of coding: armed with a keyboard, a questionable sense of humor, and a burning desire to make the web a little more fabulous—one pixel at a time.
 
